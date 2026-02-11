@@ -4,3 +4,11 @@
 *.tfplan
 .crash.log
 .terraform.lock.hcl
+
+# macOS noise
+.DS_Store
+
+# Editor noise
+.vscode/
+.idea/
+
