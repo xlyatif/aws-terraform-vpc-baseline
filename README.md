@@ -105,6 +105,12 @@ View the outputs using:
 terraform output
 ```
 
+## Screenshots
+
+Terraform apply and outputs:
+
+![Terraform apply](docs/screenshots/terraform-apply.png)
+
 ## Cost Considerations
 
 This baseline does not deploy NAT Gateways, EC2 instances, or other compute resources.

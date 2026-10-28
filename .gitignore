@@ -2,7 +2,8 @@
 *.tfstate
 *.tfstate.*
 *.tfplan
-.crash.log
+tfplan
+crash.log
 .terraform.lock.hcl
 
 # macOS noise
